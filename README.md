@@ -17,6 +17,7 @@ multiplicar y dividir.
 ![](imgs/4.png)
 
 5. Luego, crea los test unitarios en JUnit (igual no es necesario descargarlo porque puede venir incluido en vuestro IDE) de estos cuatro métodos.
+
 ![](imgs/5.png)
 
 6. Realiza el segundo commit.
@@ -38,4 +39,5 @@ Utiliza Markdown para explicar lo que has hecho en la práctica.
 https://github.com/AndreuSorell/Practica5/blob/main/README.md
 
 Realiza pruebas unitarias.
+
 ![](imgs/10.png)
